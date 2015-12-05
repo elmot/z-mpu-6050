@@ -1,0 +1,11 @@
+*.axf
+*.crf
+*.d
+*.dep
+*.htm
+*.lnp
+*.map
+*.o
+*.sct
+.lnp
+ExtDll.iex
